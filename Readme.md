@@ -6,9 +6,6 @@ HOW TO RUN
 ------------------------------------
 * To get started, navigate to the Super-eight-ball repository on GitHub and download the files. Then, open the folder in Visual Studio Code and launch the live server extension. This action  will automatically open the project in your default web browser.
 
-Click here to view live:
-[Visit website](https://08milam.github.io/Super-eight-ball/)
-
 TECHNOLOGY STACK USED
 ------------------------------------
 * HTML
